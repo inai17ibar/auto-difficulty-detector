@@ -1,0 +1,18 @@
+# ディレクトリ
+node_modules/
+out/
+dist/
+.vscode-test/
+
+# ファイル
+*.vsix
+*.log
+*.tsbuildinfo
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# 環境固有のファイル
+.env
+.env.local
