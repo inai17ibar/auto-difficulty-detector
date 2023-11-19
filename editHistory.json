@@ -1,0 +1,784 @@
+[
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:23.072Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:23.106Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 45,
+            "character": 0
+          },
+          {
+            "line": 45,
+            "character": 0
+          }
+        ],
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:23.623Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": "・"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:23.900Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": "・・"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:24.368Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 2
+          }
+        ],
+        "text": "・"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:24.550Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:25.529Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": "/"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:25.771Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 1
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": "/"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T01:57:27.132Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 2
+          }
+        ],
+        "text": "// Path: selectionsort.js"
+      }
+    ]
+  },
+  {
+    "documentUri": "output:main",
+    "timestamp": "2023-11-18T02:00:16.076Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 53,
+            "character": 0
+          },
+          {
+            "line": 53,
+            "character": 0
+          }
+        ],
+        "text": "2023-11-18 11:00:13.941 [info] update#setState checking for updates\n2023-11-18 11:00:14.394 [info] update#setState idle\n"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:16.809Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 25
+          },
+          {
+            "line": 46,
+            "character": 25
+          }
+        ],
+        "text": "\n"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:18.264Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 47,
+            "character": 0
+          },
+          {
+            "line": 47,
+            "character": 0
+          }
+        ],
+        "text": "o"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:18.817Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 47,
+            "character": 0
+          },
+          {
+            "line": 47,
+            "character": 1
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:19.406Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 47,
+            "character": 0
+          },
+          {
+            "line": 47,
+            "character": 0
+          }
+        ],
+        "text": "console.log(\"selection sort\");"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:22.643Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:09:22.650Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:32.324Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:32.342Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 47,
+            "character": 30
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:34.231Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": "￥"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:35.059Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:36.651Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:36.673Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:47.296Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:47.302Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": "・"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:47.501Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": "・・"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:55.585Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 1
+          },
+          {
+            "line": 46,
+            "character": 2
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:55.757Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:56.216Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": " "
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:57.083Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 1
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:15:58.913Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 46,
+            "character": 0
+          },
+          {
+            "line": 46,
+            "character": 0
+          }
+        ],
+        "text": "const array = [5, 2, 9, 1, 7, 6, 3];"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:16:00.107Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-18T02:16:00.113Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:33.022Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:33.058Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 0
+          },
+          {
+            "line": 26,
+            "character": 11
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:33.355Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 0
+          },
+          {
+            "line": 26,
+            "character": 0
+          }
+        ],
+        "text": "c"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:33.380Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 1
+          },
+          {
+            "line": 26,
+            "character": 1
+          }
+        ],
+        "text": "o"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:33.491Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 2
+          },
+          {
+            "line": 26,
+            "character": 2
+          }
+        ],
+        "text": "n"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:34.515Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 3
+          },
+          {
+            "line": 26,
+            "character": 3
+          }
+        ],
+        "text": "s"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:34.596Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 4
+          },
+          {
+            "line": 26,
+            "character": 4
+          }
+        ],
+        "text": "o"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.152Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 5
+          },
+          {
+            "line": 26,
+            "character": 5
+          }
+        ],
+        "text": "l"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.183Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 6
+          },
+          {
+            "line": 26,
+            "character": 6
+          }
+        ],
+        "text": "e"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.338Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 7
+          },
+          {
+            "line": 26,
+            "character": 7
+          }
+        ],
+        "text": "."
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.593Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 8
+          },
+          {
+            "line": 26,
+            "character": 8
+          }
+        ],
+        "text": "l"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.641Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 9
+          },
+          {
+            "line": 26,
+            "character": 9
+          }
+        ],
+        "text": "o"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:36.720Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 10
+          },
+          {
+            "line": 26,
+            "character": 10
+          }
+        ],
+        "text": "g"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:38.224Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 11
+          },
+          {
+            "line": 26,
+            "character": 11
+          }
+        ],
+        "text": "()"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:41.920Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 12
+          },
+          {
+            "line": 26,
+            "character": 12
+          }
+        ],
+        "text": "\"\""
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:44.017Z",
+    "changes": [
+      {
+        "range": [
+          {
+            "line": 26,
+            "character": 0
+          },
+          {
+            "line": 26,
+            "character": 13
+          }
+        ],
+        "text": "console.log(\"Hello World"
+      }
+    ]
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:45.077Z",
+    "changes": []
+  },
+  {
+    "documentUri": "file:///Users/inatani/src/js-algorithm/quicksort.js",
+    "timestamp": "2023-11-19T13:57:45.083Z",
+    "changes": []
+  }
+]

@@ -9,13 +9,15 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:auto-difficulty-detector.activateExtension"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "auto-difficulty-detector.helloWorld",
-        "title": "Hello World"
+        "command": "auto-difficulty-detector.activateExtension",
+        "title": "Activate Auto Difficulty Detector"
       }
     ]
   },
